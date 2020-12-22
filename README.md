@@ -27,3 +27,10 @@
 
 ![lab-06-graph](screenshots/graph.png)
 ![lab-06-path](screenshots/path.png)
+
+```bash
+nodes:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+edges:  [(0, 1), (1, 2), (1, 3), (1, 4), (2, 5), (3, 5), (3, 6), (4, 6), (5, 7), (6, 7), (7, 8)]
+Number of works in critical path:  5
+Total work duration:  15
+```
