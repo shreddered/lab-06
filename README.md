@@ -25,8 +25,8 @@
 Исходный код программы приведен в [main.py](main.py) Результат работы программы приведен на рисунках ниже.
 
 
-![lab-06-graph](screenshots/graph.png)
-![lab-06-path](screenshots/path.png)
+![lab-06-graph](images/graph.png)
+![lab-06-path](images/path.png)
 
 ```bash
 nodes:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
